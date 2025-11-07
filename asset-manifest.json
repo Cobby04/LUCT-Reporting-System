@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/luct-reporting-system/static/css/main.8dfc554d.css",
+    "main.js": "/luct-reporting-system/static/js/main.6554313c.js",
+    "index.html": "/luct-reporting-system/index.html",
+    "main.8dfc554d.css.map": "/luct-reporting-system/static/css/main.8dfc554d.css.map",
+    "main.6554313c.js.map": "/luct-reporting-system/static/js/main.6554313c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8dfc554d.css",
+    "static/js/main.6554313c.js"
+  ]
+}
