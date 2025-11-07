@@ -1,0 +1,29 @@
+.App {
+  min-height: 100vh;
+  background:#141415 ;
+}
+
+.card {
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  transition: transform 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-2px);
+}
+
+.btn {
+  border-radius: 10px;
+  font-weight: 600;
+}
+
+.navbar-brand {
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+.min-vh-100 {
+  min-height: 100vh;
+}
